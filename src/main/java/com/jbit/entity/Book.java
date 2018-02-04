@@ -5,6 +5,6 @@ package com.jbit.entity;
  */
 public class Book {
     public void show(){
-        System.out.println("hello");
+        System.out.println("world");
     }
 }
